@@ -12,5 +12,19 @@
          url('./fonts/fc_palette-webfont.svg#fc_paletteregular') format('svg');
     font-weight: normal;
     font-style: normal;
+}
 
+@font-face {
+    font-family: 'Taviraj';
+    src: url(./fonts/Taviraj-Light.ttf);
+}
+
+@font-face {
+    font-family: 'Trirong';
+    src: url(./fonts/Trirong-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: 'Chonburi';
+    src: url(./fonts/Chonburi-Regular.ttf);
 }
